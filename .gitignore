@@ -1,0 +1,11 @@
+# Разрешаем добавлять только готовые студенческие материалы.
+*
+!.gitignore
+!.gitattributes
+!README.md
+!books/
+!books/*.pdf
+!books/*.djvu
+!lectures/
+!lectures/*/
+!lectures/*/presentation.pdf
